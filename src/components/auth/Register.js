@@ -211,6 +211,7 @@ const Register = () => {
                     {isSubmitting ? 'Submitting...' : 'Submit'}
                 </Button>
             </Form>
+            
             <ToastContainer />
         </Container>
     );
